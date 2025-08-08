@@ -1,0 +1,7 @@
+npm install typescript --save-dev   // install typescript
+tsc --init  // generates tsconfig.json file
+set rootDir and outDir (inside tsconfig.json file)
+install npm i --save-dev @types/node, npm i --save-dev @types/express
+add build command inside package.json file ("build": "tsc",)
+npm run build to create dist folder
+npm i ts-node-dev --save-dev (keep the server running)
