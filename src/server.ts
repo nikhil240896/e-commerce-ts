@@ -15,3 +15,6 @@ connectDB()
     console.error("Failed to connect to the database:", error);
     process.exit(1);
   });
+
+
+// https://www.youtube.com/watch?v=1UP8niF0WSM
